@@ -15,6 +15,7 @@ languages = {
     :ruby => {
       :type => "interpreted"
     },
+    :oo => {
     :javascript => {
       :type => "interpreted"
     }
