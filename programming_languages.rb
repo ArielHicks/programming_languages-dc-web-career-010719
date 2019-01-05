@@ -18,7 +18,6 @@ languages = {
     :javascript => {
       :style => "interpreted"
     }
-    }
   }
 }
 
